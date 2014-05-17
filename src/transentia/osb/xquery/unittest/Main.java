@@ -43,9 +43,9 @@ public class Main {
             List differences = detDiff.getAllDifferences();
             for (Object object : differences) {
                 Difference difference = (Difference) object;
-                System.out.println("***********************");
+                System.out.println("[======================================]");
                 System.out.println(difference);
-                System.out.println("***********************");
+                System.out.println("[======================================]");
             }
             assertEquals(detDiff.toString(), 0, differences.size());
         } catch (SAXException e) {
