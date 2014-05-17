@@ -3,7 +3,7 @@
 OSB XQuery unit test - based on Transentia nice work - http://wordpress.transentia.com.au/wordpress/2010/11/20/unit-testing-xquery-using-osbs-api-2/
 
 This is a mixed Groovy 2.1.7 and Java 1.6 project built in NetBeans 8.0. 
-This program helps writing unit tests in Groovy/Java for OSB XQuery scripts 
+This program helps writing unit tests in Groovy/Java for OSB (11.1.1.6.) XQuery scripts 
 and it can be used in commandline.
 
 ## One fat jar
